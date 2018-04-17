@@ -47,7 +47,7 @@ Ang pag-update sa index gamit ang version v0.0.0.#ang version nga gi-update pag-
 
 
 
-[1]: https://lmas2969.github.io/storyofmylife/
+[1]: https://lmas2969.github.io/Company/
 [2]: #index-version
 [3]: #readmemd-version
 [4]: #license
