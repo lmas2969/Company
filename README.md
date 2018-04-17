@@ -40,7 +40,7 @@ Ang pag-update sa index gamit ang version v0.0.0.#ang version nga gi-update pag-
 [![timeseariver][timeseariver]][timeseariver-url]
 [![jeanalyn][jeanalyn]][jeanalyn-url]
 [![marlondeposoy][marlondeposoy]][marlondeposoy-url]
-
+[![LeuMas][LeuMas]][LeuMas-url]
 
 
 
@@ -79,3 +79,5 @@ Ang pag-update sa index gamit ang version v0.0.0.#ang version nga gi-update pag-
 [jeanalyn-url]: https://github.com/jeanalyn
 [marlondeposoy]: https://github.com/marlondeposoy.png?size=40
 [marlondeposoy-url]: https://github.com/marlondeposoy
+[LeuMas]: https://github.com/lmas2969.png?size=40
+[LeuMas-url]: https://github.com/lmas2969
