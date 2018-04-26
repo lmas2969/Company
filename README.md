@@ -22,7 +22,7 @@ Update Version
 Ang pag-update sa index gamit ang version v0.0.0.#ang version nga gi-update pag-ang v0+.0+.0+.#ang full version nga update
 
 ## README.md Version
-
+[![GetBadges Game](https://lmas2969-company.getbadges.io/shield/company/lmas2969-company)](https://lmas2969-company.getbadges.io/?ref=shield-game)
 ## LICENSE
 
 ## RSS Version
